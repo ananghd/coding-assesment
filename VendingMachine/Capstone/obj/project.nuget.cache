@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3i6+vgaof9oj+G4G98qMfQ9+6czvQs1re6PS8S3e0VZE7X3uJJCHXVqs37x+g1KBaAiN5zGVJuulzP3kdASngQ==",
+  "success": true,
+  "projectFilePath": "/Users/ananghd/Projects/test/coding-assesment/VendingMachine/Capstone/Capstone.csproj",
+  "expectedPackageFiles": [
+    "/Users/ananghd/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ananghd/.nuget/packages/stylecop.analyzers/1.0.2/stylecop.analyzers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
